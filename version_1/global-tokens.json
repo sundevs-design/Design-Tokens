@@ -2021,7 +2021,7 @@
           "type": "color"
         }
       },
-      "base_5": {
+      "candlelight": {
         "1": {
           "value": "#FFFBE7",
           "type": "color"
@@ -2051,7 +2051,7 @@
           "type": "color"
         }
       },
-      "base_6": {
+      "royal-blue": {
         "1": {
           "value": "#F0F4FE",
           "type": "color"
@@ -2081,7 +2081,7 @@
           "type": "color"
         }
       },
-      "base_7": {
+      "greyscale": {
         "0": {
           "value": "#FFFFFF",
           "type": "color"
